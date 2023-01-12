@@ -34,6 +34,7 @@
 </head>
 
 <body>
+    <h1>Welcome to the dhvani which helps you to translate over 100 languages</h1>
     <div class="hero min-h-screen overflow-hidden" style="background-image: url(./assets/img/herobg.png);" id="hero_section">
         <div class="hero-overlay"></div>
         <!-- <div id="navbar"><ul><li></li><li></li><li></li><li></li><li></li></ul></div> -->
